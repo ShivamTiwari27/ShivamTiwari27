@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ShivamTiwari
-- 👀 I’m interested in <strong>(I Don't Know)</strong>
+- 👀 I’m interested in <strong>learing</strong> neew things.
 - 🌱 I’m currently learning ...C , C++ , java , python , web devlopment etc
 - 💞️ My hobbies are playing chess
 - 📫 You can waste your time with me in instagram @__c__vam__
