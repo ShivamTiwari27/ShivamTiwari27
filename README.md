@@ -1,6 +1,3 @@
-
----
-
 👋 **Hello, I'm Shivam Tiwari!**
 
 Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies. With a keen interest in software development and web technologies, I'm always seeking to enhance my skills and broaden my knowledge.
@@ -25,7 +22,6 @@ When I'm not immersed in coding, you'll often find me engaged in a thrilling gam
 
 I'm excited to collaborate, share knowledge, and learn from fellow developers and enthusiasts. Whether you have a project idea, want to discuss tech trends, or simply share your love for coding or chess, feel free to reach out! Let's embark on this journey of discovery together.
 
---- 
 <!---
 ShivamTiwari27/ShivamTiwari27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
